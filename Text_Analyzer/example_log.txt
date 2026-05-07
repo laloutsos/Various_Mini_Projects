@@ -1,0 +1,8 @@
+2025-05-29 12:00:52 -
+=== New session for user: example ===
+Words matching pattern 's???e':
+Most frequent word: 'the' with count: 262615
+Deleted word 'science'
+Total searches performed: 1
+=== End of session ===
+
